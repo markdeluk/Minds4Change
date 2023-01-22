@@ -8,4 +8,5 @@ Everything has been created though the joint contribution of a set of students w
 - Luca Camagna, Physics Engineering
 - Simone Costantino, Aerospace Engineering
 - Francesca Delleani, Automotive Engineering
+
 Slides are provided in Italian language. For any translation, please feel free to contact me :)
